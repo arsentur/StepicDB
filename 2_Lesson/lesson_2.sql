@@ -1,4 +1,4 @@
--- Декартово произведение из несольких таблиц CROSS DJOIN
+-- Декартово произведение из несольких таблиц CROSS JOIN
 
 SELECT * FROM product, category;
 
